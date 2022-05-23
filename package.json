@@ -1,0 +1,18 @@
+{
+  "name": "music-bot",
+  "main": "main.js",
+  "author": "KEnzo Serneels",
+  "version": "6.0.0",
+  
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord-player": "^5.1.0",
+    "discord.js": "^13.1.0",
+    "ffmpeg-static": "^4.4.0",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.11.0"
+  }
+}
